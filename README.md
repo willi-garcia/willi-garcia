@@ -16,6 +16,7 @@ Backend Developer 🧑💻.
 
 > [![Nodejs Badge](https://img.shields.io/badge/-Node%20js-3C873A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3C873A)](#)
 [![Expressjs Badge](https://img.shields.io/badge/-Express%20js-A52A2A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3c873a)](#)
+[![Nestjs Badge](https://img.shields.io/badge/-Nest%20js-A52A2A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3c873a)](#)
 [![Sequelize Badge](https://img.shields.io/badge/-Sequelize-444444?style=for-the-badge&labelColor=222222&logo=sequelize&logoColor=ffffff)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-Postgresql-32658E?style=for-the-badge&labelColor=222222&logo=postgresql&logoColor=ffffff)](#)
 
