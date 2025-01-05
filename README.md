@@ -4,7 +4,7 @@
 I'm William Garcia.
 
 Backend Developer 🧑💻.
-API development with Node.js, Express.js, Nest.js, SQL and NoSQL BBDD and other tools.
+> API development with Node.js, Express.js, Nest.js, SQL and NoSQL BBDD and other tools.
 I also work on the Frontend using React.js
 
 <br>
